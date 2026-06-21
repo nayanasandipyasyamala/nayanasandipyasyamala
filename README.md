@@ -7,8 +7,6 @@ A passionate Full Stack Developer | AI/ML Enthusiast | Generative AI Learner
 ---
 
 ## About Me
-
-* 🎓 B.Tech CSE (2027) @ SRM University AP
 * 💻 Passionate about Full Stack Development
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * ✨ Learning Generative AI concepts and applications
